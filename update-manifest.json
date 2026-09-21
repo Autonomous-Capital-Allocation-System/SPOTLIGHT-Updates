@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "product": "SPOTLIGHT",
+  "latestVersion": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
+  "releaseNotes": "SPOTLIGHT 0.1.0 is the first test build: linked multi-instance spotlighting, Solo mode, automation / grid / audio triggers, Rise-Hold-Fall timing, and the Punch / Focus / Bloom profiles.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/SPOTLIGHT-Updates/blob/main/CHANGELOG.md",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/SPOTLIGHT/releases"
+}
