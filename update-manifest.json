@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "SPOTLIGHT",
-  "latestVersion": "0.1.0",
+  "latestVersion": "1.0.0",
   "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "SPOTLIGHT 0.1.0 is the first test build: linked multi-instance spotlighting, Solo mode, automation / grid / audio triggers, Rise-Hold-Fall timing, and the Punch / Focus / Bloom profiles.",
+  "releaseNotes": "SPOTLIGHT 1.0.0 is here: code-signed installers (no security warnings), a much stronger Impact engine with Punch, Drive and Density, license activation with a free trial, updates that install from inside the plug-in, and a new user guide.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/SPOTLIGHT-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/SPOTLIGHT/releases"
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/SPOTLIGHT-Updates/releases/tag/v1.0.0"
 }
